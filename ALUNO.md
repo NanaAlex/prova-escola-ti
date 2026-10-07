@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Nathacha Cardoso
+Nome: Nathacha Alexsandra Cardoso Calsavara
 
-RA: >>> PREENCHER <<<
+RA: 231417372
 
 Conta GitHub: @NanaAlex
 
