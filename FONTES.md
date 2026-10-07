@@ -15,7 +15,7 @@
 > como fonte declarada.
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
-| --- | [---](https://claude.ai/share/25b12511-1ae8-48ce-9ca9-46b01d333693) | estrutura do sdd/tdd | /prova01 |
+| --- | [---] |  |  |
 | — | | | |
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
@@ -37,7 +37,7 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
    dúvida, o professor pede o link e pergunta sobre o código.[^plagio]
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
-| --- | --- | --- |
+| --- | [---](https://claude.ai/share/25b12511-1ae8-48ce-9ca9-46b01d333693) | estrutura do sdd/tdd |
 | — | | |
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
